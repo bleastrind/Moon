@@ -1,0 +1,11 @@
+F:\resourse\MyWorks\compiler\CodeHolic\ConsoleMockView\obj\Debug\ResolveAssemblyReference.cache
+F:\resourse\MyWorks\compiler\CodeHolic\ConsoleMockView\bin\Debug\ConsoleMockView.exe
+F:\resourse\MyWorks\compiler\CodeHolic\ConsoleMockView\bin\Debug\ConsoleMockView.pdb
+F:\resourse\MyWorks\compiler\CodeHolic\ConsoleMockView\bin\Debug\MoonCore.dll
+F:\resourse\MyWorks\compiler\CodeHolic\ConsoleMockView\bin\Debug\MoonCore.pdb
+F:\resourse\MyWorks\compiler\CodeHolic\ConsoleMockView\obj\Debug\ConsoleMockView.exe
+F:\resourse\MyWorks\compiler\CodeHolic\ConsoleMockView\obj\Debug\ConsoleMockView.pdb
+F:\resourse\MyWorks\compiler\CodeHolic\ConsoleMockView\bin\Debug\DataContact.dll
+F:\resourse\MyWorks\compiler\CodeHolic\ConsoleMockView\bin\Debug\CoronaService.dll
+F:\resourse\MyWorks\compiler\CodeHolic\ConsoleMockView\bin\Debug\CoronaService.pdb
+F:\resourse\MyWorks\compiler\CodeHolic\ConsoleMockView\bin\Debug\DataContact.pdb

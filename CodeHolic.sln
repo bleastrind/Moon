@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moon", "Moon\Moon.csproj", "{D7CFA21C-04FF-4D24-A1FE-96B4BBADCFEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoonCore", "MoonCore\MoonCore.csproj", "{A2339F20-4F32-425B-9BA5-A4D7DCAD2761}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6C508C91-FCF6-41AA-99BB-F01C204EEBBE}"
+	ProjectSection(SolutionItems) = preProject
+		CodeHolic.vsmdi = CodeHolic.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoronaService", "CoronaService\CoronaService.csproj", "{A8DAFDFE-C14F-4235-A5FE-A78D5F544881}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContact", "DataContact\DataContact.csproj", "{37BED878-8C38-44C9-B48B-11BFA20C5334}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs-course.vicp.net:8080/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Moon\\Moon.csproj
+		SccProjectName1 = Moon
+		SccLocalPath1 = Moon
+		SccProjectUniqueName2 = MoonCore\\MoonCore.csproj
+		SccProjectName2 = MoonCore
+		SccLocalPath2 = MoonCore
+		SccProjectUniqueName3 = CoronaService\\CoronaService.csproj
+		SccProjectName3 = CoronaService
+		SccLocalPath3 = CoronaService
+		SccProjectUniqueName4 = DataContact\\DataContact.csproj
+		SccProjectName4 = DataContact
+		SccLocalPath4 = DataContact
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7CFA21C-04FF-4D24-A1FE-96B4BBADCFEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7CFA21C-04FF-4D24-A1FE-96B4BBADCFEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7CFA21C-04FF-4D24-A1FE-96B4BBADCFEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7CFA21C-04FF-4D24-A1FE-96B4BBADCFEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2339F20-4F32-425B-9BA5-A4D7DCAD2761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2339F20-4F32-425B-9BA5-A4D7DCAD2761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2339F20-4F32-425B-9BA5-A4D7DCAD2761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2339F20-4F32-425B-9BA5-A4D7DCAD2761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8DAFDFE-C14F-4235-A5FE-A78D5F544881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8DAFDFE-C14F-4235-A5FE-A78D5F544881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8DAFDFE-C14F-4235-A5FE-A78D5F544881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8DAFDFE-C14F-4235-A5FE-A78D5F544881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37BED878-8C38-44C9-B48B-11BFA20C5334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37BED878-8C38-44C9-B48B-11BFA20C5334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37BED878-8C38-44C9-B48B-11BFA20C5334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37BED878-8C38-44C9-B48B-11BFA20C5334}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+F:\resourse\MyWorks\compiler\CodeHolic\DataContact\bin\Release\DataContact.dll
+F:\resourse\MyWorks\compiler\CodeHolic\DataContact\bin\Release\DataContact.pdb
+F:\resourse\MyWorks\compiler\CodeHolic\DataContact\obj\Release\ResolveAssemblyReference.cache
+F:\resourse\MyWorks\compiler\CodeHolic\DataContact\obj\Release\DataContact.dll
+F:\resourse\MyWorks\compiler\CodeHolic\DataContact\obj\Release\DataContact.pdb

@@ -1,0 +1,11 @@
+F:\resourse\MyWorks\compiler\CodeHolic\CoronaService\bin\Debug\CoronaService.dll
+F:\resourse\MyWorks\compiler\CodeHolic\CoronaService\bin\Debug\CoronaService.pdb
+F:\resourse\MyWorks\compiler\CodeHolic\CoronaService\bin\Debug\DataContact.dll
+F:\resourse\MyWorks\compiler\CodeHolic\CoronaService\bin\Debug\DataContact.pdb
+F:\resourse\MyWorks\compiler\CodeHolic\CoronaService\obj\Debug\ResolveAssemblyReference.cache
+F:\resourse\MyWorks\compiler\CodeHolic\CoronaService\obj\Debug\CoronaService.dll
+F:\resourse\MyWorks\compiler\CodeHolic\CoronaService\obj\Debug\CoronaService.pdb
+F:\resourse\MyWorks\compiler\CodeHolic\CoronaService\bin\Debug\CoronaService.dll.config
+F:\resourse\MyWorks\compiler\CodeHolic\CoronaService\bin\Debug\Interop.ADOX.dll
+F:\resourse\MyWorks\compiler\CodeHolic\CoronaService\obj\Debug\Interop.ADOX.dll
+F:\resourse\MyWorks\compiler\CodeHolic\CoronaService\obj\Debug\CoronaService.csproj.ResolveComReference.cache

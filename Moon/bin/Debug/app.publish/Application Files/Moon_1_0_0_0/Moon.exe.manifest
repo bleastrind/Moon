@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="Moon.exe" version="1.0.0.0" publicKeyToken="5d0a9e53b11d6151" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Moon" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Moon.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC 清单选项
+          如果要更改 Windows 用户帐户控制级别，请
+          用下面的某一项替换 requestedExecutionLevel 节点。
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         如果要利用文件和注册表虚拟化实现向后
+         兼容，请删除 requestedExecutionLevel 节点。
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CoronaService.dll" size="54272">
+      <assemblyIdentity name="CoronaService" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>0WlXEukYkC7qmFc1NWvD4D/Cwiw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DataContact.dll" size="6144">
+      <assemblyIdentity name="DataContact" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>jRMXHldB1X0uf7JVV9WIA4tmifg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.ADOX.dll" size="36864">
+      <assemblyIdentity name="Interop.ADOX" version="6.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>oUDaPlbiDc+hcHI37I4DmEXQs+4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Moon.exe" size="405504">
+      <assemblyIdentity name="Moon" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>1mPKpT14TI8uXDRUuXZC0+kX0FU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MoonCore.dll" size="13312">
+      <assemblyIdentity name="MoonCore" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>e0P29C6iDdgD7WZlwASAV20fxzU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RibbonControlsLibrary.dll" size="349048">
+      <assemblyIdentity name="RibbonControlsLibrary" version="3.5.31016.1" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>AlLQXu6+QCWLmEbxiLANLoMFfsM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WPFToolkit.dll" size="448360">
+      <assemblyIdentity name="WPFToolkit" version="3.5.31016.1" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>xGm4cjYQ+Qvzhi7mbeGgArabsOQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Dependencies\RibbonControlsLibrary.dll" size="349048">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>AlLQXu6+QCWLmEbxiLANLoMFfsM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Dependencies\WPFToolkit.dll" size="448360">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>xGm4cjYQ+Qvzhi7mbeGgArabsOQ=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=WIN-CCPE2C8KIYV\Administrator" issuerKeyHash="de641e92bbf66d750da1e8e413beebc186cbf8eb" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>MTLio3TNaCwcDFBj/TvE+idtGvc=</DigestValue></Reference></SignedInfo><SignatureValue>VunBaXm6risNwArtzZN6eNQTH68wYNMKW+DZOcaqVObhz8cSKQPzU8ZgcAn6Hdkj51nFjVn19J2Ox3qYV0VfdP97Ush9iCeJw4yqVaOEkS6jrGEUmd9xUaSAiSccijmEYRirOWcbfbDCVu4cfhKMTHN4+ZDdk7vp3fRkXiMtJNM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>qKQtGx4uIAFxnXBvHNi83A6GapVemwCB3zHhLDlNVNjn6JjRxqG342Cz7rL3gz439a1RwCMo/odEw3ZiiUkmgsTriXWHQldcSayNz5hEgKGIWQR0RG06P1VVDbX8GPJyc9XUrh83YIuvs7adkv3Kv+l68Shf+N1bKn7ENqB/VRk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f71a6d27fac43bfd63500c1c2c68cd74a3e23231" Description="" Url=""><as:assemblyIdentity name="Moon.exe" version="1.0.0.0" publicKeyToken="5d0a9e53b11d6151" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=WIN-CCPE2C8KIYV\Administrator</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>idWkRqbvo4Q9i7/MvLz9nwUdFJs=</DigestValue></Reference></SignedInfo><SignatureValue>RhS7PkP0RqvVhUFV2ZoJC0nyUtpoAor8q1WPcxQyT+5lDM/K702Dbtj60TLrzAR1PJ2E5I5f5Tn0mrAapFda8ElpBOUr4JoYwlknn1dbAzI5Otde5fUmKzoDETMcU8xWtqVvZHU+tQv6JHXpjJrnsKGRWFlyyIMAK/QcHeQs7lw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qKQtGx4uIAFxnXBvHNi83A6GapVemwCB3zHhLDlNVNjn6JjRxqG342Cz7rL3gz439a1RwCMo/odEw3ZiiUkmgsTriXWHQldcSayNz5hEgKGIWQR0RG06P1VVDbX8GPJyc9XUrh83YIuvs7adkv3Kv+l68Shf+N1bKn7ENqB/VRk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICDTCCAXagAwIBAgIQ7eHgHxSf2JJNGzZZ0YrVyjANBgkqhkiG9w0BAQUFADBFMUMwQQYDVQQDHjoAVwBJAE4ALQBDAEMAUABFADIAQwA4AEsASQBZAFYAXABBAGQAbQBpAG4AaQBzAHQAcgBhAHQAbwByMB4XDTA5MTIwMTE2MDExOVoXDTEwMTIwMTIyMDExOVowRTFDMEEGA1UEAx46AFcASQBOAC0AQwBDAFAARQAyAEMAOABLAEkAWQBWAFwAQQBkAG0AaQBuAGkAcwB0AHIAYQB0AG8AcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAqKQtGx4uIAFxnXBvHNi83A6GapVemwCB3zHhLDlNVNjn6JjRxqG342Cz7rL3gz439a1RwCMo/odEw3ZiiUkmgsTriXWHQldcSayNz5hEgKGIWQR0RG06P1VVDbX8GPJyc9XUrh83YIuvs7adkv3Kv+l68Shf+N1bKn7ENqB/VRkCAwEAATANBgkqhkiG9w0BAQUFAAOBgQBtBtUyAQIZqMpy2Xoj/kKFbWxMcNpGuZcUJRWTQy4lPvFmmwC+ThL8nrjMybs4AC2Hxtk7cwdcPw3tCRqbQLr7HJDC3cvy98bhb5igMQfjaQYbi9FkTw+mC4TA0GgE4CPvpLNoJHWvENlQCnuTumQ2W1Al7SiPbmr895Y0oXOvLA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

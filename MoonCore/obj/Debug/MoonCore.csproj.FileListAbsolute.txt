@@ -1,0 +1,10 @@
+F:\resourse\MyWorks\compiler\CodeHolic\MoonCore\obj\Debug\ResolveAssemblyReference.cache
+F:\resourse\MyWorks\compiler\CodeHolic\MoonCore\bin\Debug\MoonCore.dll
+F:\resourse\MyWorks\compiler\CodeHolic\MoonCore\bin\Debug\MoonCore.pdb
+F:\resourse\MyWorks\compiler\CodeHolic\MoonCore\obj\Debug\MoonCore.dll
+F:\resourse\MyWorks\compiler\CodeHolic\MoonCore\obj\Debug\MoonCore.pdb
+F:\resourse\MyWorks\compiler\CodeHolic\MoonCore\bin\Debug\CoronaService.dll
+F:\resourse\MyWorks\compiler\CodeHolic\MoonCore\bin\Debug\DataContact.dll
+F:\resourse\MyWorks\compiler\CodeHolic\MoonCore\bin\Debug\CoronaService.pdb
+F:\resourse\MyWorks\compiler\CodeHolic\MoonCore\bin\Debug\DataContact.pdb
+F:\resourse\MyWorks\compiler\CodeHolic\MoonCore\bin\Debug\Interop.ADOX.dll

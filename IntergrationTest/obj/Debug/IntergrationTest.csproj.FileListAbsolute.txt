@@ -1,0 +1,15 @@
+F:\resourse\MyWorks\compiler\CodeHolic\IntergrationTest\obj\Debug\ResolveAssemblyReference.cache
+F:\resourse\MyWorks\compiler\CodeHolic\IntergrationTest\bin\Debug\IntergrationTest.dll
+F:\resourse\MyWorks\compiler\CodeHolic\IntergrationTest\bin\Debug\IntergrationTest.pdb
+F:\resourse\MyWorks\compiler\CodeHolic\IntergrationTest\bin\Debug\DataContact.dll
+F:\resourse\MyWorks\compiler\CodeHolic\IntergrationTest\bin\Debug\MoonCore.dll
+F:\resourse\MyWorks\compiler\CodeHolic\IntergrationTest\bin\Debug\TestView.dll
+F:\resourse\MyWorks\compiler\CodeHolic\IntergrationTest\bin\Debug\CoronaService.dll
+F:\resourse\MyWorks\compiler\CodeHolic\IntergrationTest\bin\Debug\CoronaService.pdb
+F:\resourse\MyWorks\compiler\CodeHolic\IntergrationTest\bin\Debug\MoonCore.pdb
+F:\resourse\MyWorks\compiler\CodeHolic\IntergrationTest\bin\Debug\TestView.pdb
+F:\resourse\MyWorks\compiler\CodeHolic\IntergrationTest\bin\Debug\DataContact.pdb
+F:\resourse\MyWorks\compiler\CodeHolic\IntergrationTest\bin\Debug\TestView_Accessor.dll
+F:\resourse\MyWorks\compiler\CodeHolic\IntergrationTest\bin\Debug\TestView_Accessor.pdb
+F:\resourse\MyWorks\compiler\CodeHolic\IntergrationTest\obj\Debug\IntergrationTest.dll
+F:\resourse\MyWorks\compiler\CodeHolic\IntergrationTest\obj\Debug\IntergrationTest.pdb

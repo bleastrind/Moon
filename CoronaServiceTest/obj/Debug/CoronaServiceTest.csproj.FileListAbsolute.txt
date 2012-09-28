@@ -1,0 +1,12 @@
+F:\resourse\MyWorks\compiler\CodeHolic\CoronaServiceTest\bin\Debug\CoronaServiceTest.dll
+F:\resourse\MyWorks\compiler\CodeHolic\CoronaServiceTest\bin\Debug\CoronaServiceTest.pdb
+F:\resourse\MyWorks\compiler\CodeHolic\CoronaServiceTest\bin\Debug\CoronaService.dll
+F:\resourse\MyWorks\compiler\CodeHolic\CoronaServiceTest\bin\Debug\DataContact.dll
+F:\resourse\MyWorks\compiler\CodeHolic\CoronaServiceTest\bin\Debug\CoronaService.pdb
+F:\resourse\MyWorks\compiler\CodeHolic\CoronaServiceTest\bin\Debug\DataContact.pdb
+F:\resourse\MyWorks\compiler\CodeHolic\CoronaServiceTest\obj\Debug\ResolveAssemblyReference.cache
+F:\resourse\MyWorks\compiler\CodeHolic\CoronaServiceTest\obj\Debug\CoronaServiceTest.dll
+F:\resourse\MyWorks\compiler\CodeHolic\CoronaServiceTest\obj\Debug\CoronaServiceTest.pdb
+F:\resourse\MyWorks\compiler\CodeHolic\CoronaServiceTest\bin\Debug\CoronaService_Accessor.dll
+F:\resourse\MyWorks\compiler\CodeHolic\CoronaServiceTest\bin\Debug\CoronaService_Accessor.pdb
+F:\resourse\MyWorks\compiler\CodeHolic\CoronaServiceTest\bin\Debug\Interop.ADOX.dll
